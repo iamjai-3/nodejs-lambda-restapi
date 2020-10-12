@@ -1,0 +1,6 @@
+endpoints:
+  POST - https://s78xf0pc8e.execute-api.ap-south-1.amazonaws.com/dev/api
+  GET - https://s78xf0pc8e.execute-api.ap-south-1.amazonaws.com/dev/api
+  GET - https://s78xf0pc8e.execute-api.ap-south-1.amazonaws.com/dev/api/{id}
+  PUT - https://s78xf0pc8e.execute-api.ap-south-1.amazonaws.com/dev/api/{id}
+  DELETE - https://s78xf0pc8e.execute-api.ap-south-1.amazonaws.com/dev/api/{id}
